@@ -1,12 +1,12 @@
 {
-    "tag_name": "0.6",
+    "tag_name": "0.7",
     "assets": [
         {
-            "browser_download_url": "https://github.com/FriendsOfGalaxy/galaxy-integration-minecraft/releases/download/0.6/macos.zip",
+            "browser_download_url": "https://github.com/FriendsOfGalaxy/galaxy-integration-minecraft/releases/download/0.7/macos.zip",
             "name": "macos.zip"
         },
         {
-            "browser_download_url": "https://github.com/FriendsOfGalaxy/galaxy-integration-minecraft/releases/download/0.6/windows.zip",
+            "browser_download_url": "https://github.com/FriendsOfGalaxy/galaxy-integration-minecraft/releases/download/0.7/windows.zip",
             "name": "windows.zip"
         }
     ]
