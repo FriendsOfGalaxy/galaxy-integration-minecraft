@@ -1,2 +1,6 @@
 *.pyc
 *.pyo
+*__pycache__
+*.DS_STORE
+releases
+.vscode
